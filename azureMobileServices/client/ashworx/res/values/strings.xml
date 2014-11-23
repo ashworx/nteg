@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">ashworx</string>
+    <string name="add_textbox_hint">Send message</string>
+    <string name="add_button_text">Send</string>
+    <string name="mobile_services">Mobile Services </string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="checkbox_text">Item Text</string>
+    <string name="contact_name">Person</string>
+    <string name="contact_select_title">Select a Contact</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="messageContent">Message</string>
+    <string name="promptReceiverId">Enter value</string>
+    
+</resources>
